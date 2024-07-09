@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Govi360",
+    "slug": "Govi360",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/govi_logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/govi_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb03e33a-2e33-4cac-93c3-291607acbf1a"
+      }
+    },
+    "owner": "arshadjasir"
+  }
+}
